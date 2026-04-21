@@ -48,3 +48,9 @@ com.projeto.api
 
 ## Swagger
 ```http://localhost:8080/swagger-ui/index.html#```
+
+## micronaut-launch
+
+```https://micronaut.io/launch/```
+
+<img width="1390" height="1200" alt="Micronaut" src="https://github.com/user-attachments/assets/841df8a4-e882-4e84-af24-f311e2050c4f" />
