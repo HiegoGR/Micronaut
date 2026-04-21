@@ -11,11 +11,12 @@ public class UserMapper {
         return new UserDTO(
                 entity.getId(),
                 entity.getNome(),
+                entity.getEmail(),
                 entity.getIdade(),
-                entity.getTelefone(),
-                entity.getEmail()
+                entity.getTelefone()
         );
     }
+
 
     public static UserEntity toEntity(UserDTO dto) {
         UserEntity entity = new UserEntity();

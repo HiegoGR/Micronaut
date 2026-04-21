@@ -1,7 +1,4 @@
 package com.projeto.api.entity;
-
-
-import com.projeto.api.dto.UserDTO;
 import jakarta.persistence.*;
 import lombok.Data;
 
